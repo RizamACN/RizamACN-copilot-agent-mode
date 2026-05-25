@@ -6,6 +6,7 @@ function App() {
       <section className="hero">
         <h1>OctoFit Tracker</h1>
         <p>Modern multi-tier workout tracking for teams and athletes.</p>
+        <p className="note">Step 2 validation ready.</p>
       </section>
     </main>
   );
